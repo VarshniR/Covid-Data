@@ -1,4 +1,5 @@
-[Image](https://dph.georgia.gov/sites/dph.georgia.gov/files/styles/3_2_2106px_x_1404px/public/2021-04/GettyImages-1210455332.jpg?h=32b23554&itok=hXoJsD8u)
+[Image](![image](https://user-images.githubusercontent.com/109621999/184075737-8695de73-4aa5-4cd3-9413-69e3b749e33d.png)
+)
 
 ### Covid-Data
 
