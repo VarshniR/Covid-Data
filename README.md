@@ -1,4 +1,5 @@
-![image](![GettyImages-1210455332](https://user-images.githubusercontent.com/109621999/184076133-ff260b01-d1ab-470c-907d-62767a5fd9d2.jpeg)
+(![GettyImages-1210455332](https://user-images.githubusercontent.com/109621999/184076374-8a61675b-969b-4ce7-8578-f41123e87bfc.jpeg)
+)
 
 
 
