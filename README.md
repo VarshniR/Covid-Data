@@ -59,8 +59,9 @@ ORDER BY date
 ![Screenshot 2022-08-11 at 2 50 15 AM](https://user-images.githubusercontent.com/109621999/184078887-7fedff31-62c7-46fb-9ad5-3afc576ba3d9.png)
 
 
-####For those of you who find yourself on this page, feel free to give your feedback :)
+#### For those of you who find yourself on this page, feel free to give your feedback :)
 
-LinkedIn: https://www.linkedin.com/in/varshnir/
-E-mail: varshniramdhani@gmail.com
+#### LinkedIn: _https://www.linkedin.com/in/varshnir/_
+
+#### E-mail: _varshniramdhani@gmail.com_
 
