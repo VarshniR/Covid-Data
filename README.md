@@ -17,21 +17,25 @@ GROUP BY country
 ORDER BY vaccine_totals DESC
 LIMIT 5;
 ```
+![Screenshot 2022-08-11 at 2 40 30 AM](https://user-images.githubusercontent.com/109621999/184077689-e6e797b6-05e9-4a6f-ba49-4e5669fac98e.png)
 
-2. What are the average total deaths from Covid per country?
+
+2. What are the average total reported deaths from Covid-19 per country?
 ```
 SELECT country, AVG(total_deaths) as death_avg
 FROM covid
 GROUP BY country
 ORDER BY country;
 ```
+![Screenshot 2022-08-11 at 2 43 28 AM](https://user-images.githubusercontent.com/109621999/184078005-463a627f-4250-4c52-8b75-a4debfb560b1.png)
 
-3. What are the totals of covid cases and covid deaths in every country?
+3. What are the totals of reported Covid-19 cases and Covid-19 deaths in every country?
 ```
 SELECT country, SUM(total_cases) AS cases, SUM(total_deaths) AS deaths
 FROM covid
 GROUP BY country;
 ```
+![Screenshot 2022-08-11 at 2 48 38 AM](https://user-images.githubusercontent.com/109621999/184078697-55d52713-ff0a-4c2c-9ad1-500a768cca42.png)
 
 4. How many covid cases and covid deaths were reported between 01-22-2020 and 02-22-2020 per country?
 
@@ -42,6 +46,7 @@ WHERE date between '2020-01-22' AND '2020-02-22'
 AND daily_deaths > 0
 ORDER BY date ASC;
 ```
+![Screenshot 2022-08-11 at 2 45 35 AM](https://user-images.githubusercontent.com/109621999/184078286-3e46923b-43c5-4539-bacc-84cb5246a19c.png)
 
 5. When was the first Covid-19 case reported in Suriname?   
 ```
@@ -51,49 +56,7 @@ WHERE country = 'suriname'
 AND daily_cases >0 
 ORDER BY date
 ```
+![Screenshot 2022-08-11 at 2 50 15 AM](https://user-images.githubusercontent.com/109621999/184078887-7fedff31-62c7-46fb-9ad5-3afc576ba3d9.png)
 
 
 
-
-
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/VarshniR/Covid-Data/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VarshniR/Covid-Data/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
