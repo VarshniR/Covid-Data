@@ -59,9 +59,10 @@ ORDER BY date
 ![Screenshot 2022-08-11 at 2 50 15 AM](https://user-images.githubusercontent.com/109621999/184078887-7fedff31-62c7-46fb-9ad5-3afc576ba3d9.png)
 
 ## Also played around with the dataset in **Tableau**, below some simple visuals:
-![Screenshot 2022-08-11 at 3 41 07 AM](https://user-images.githubusercontent.com/109621999/184086771-cc759f28-c535-48e8-801b-dab97c192030.png)
+![Screenshot 2022-08-11 at 3 55 55 AM](https://user-images.githubusercontent.com/109621999/184088969-0e080b12-8c19-4fcb-8f1c-64e4d522c94a.png)
 ![Screenshot 2022-08-11 at 3 44 19 AM](https://user-images.githubusercontent.com/109621999/184087056-6cc5db75-0469-4fbf-9a67-854bda06ba42.png)
-![Screenshot 2022-08-11 at 3 45 08 AM](https://user-images.githubusercontent.com/109621999/184087200-fc676f97-3db5-4e7d-9aaa-419336d410d7.png)
+![Screenshot 2022-08-11 at 3 54 30 AM](https://user-images.githubusercontent.com/109621999/184088715-603b028c-f256-4bb7-8780-ad9dc6b17b8f.png)
+
 
 #### To see more of my visuals and/ or dashboards: _https://public.tableau.com/app/profile/varshni3490#!/_
 
