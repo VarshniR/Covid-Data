@@ -1,4 +1,4 @@
-[Image](![image](https://user-images.githubusercontent.com/109621999/184075737-8695de73-4aa5-4cd3-9413-69e3b749e33d.png)
+(![image](https://user-images.githubusercontent.com/109621999/184075737-8695de73-4aa5-4cd3-9413-69e3b749e33d.png)
 )
 
 ### Covid-Data
