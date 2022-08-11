@@ -1,6 +1,4 @@
-(![GettyImages-1210455332](https://user-images.githubusercontent.com/109621999/184076374-8a61675b-969b-4ce7-8578-f41123e87bfc.jpeg)
-)
-
+![GettyImages-1210455332](https://user-images.githubusercontent.com/109621999/184076374-8a61675b-969b-4ce7-8578-f41123e87bfc.jpeg)
 
 
 ### Covid-Data
@@ -12,10 +10,47 @@ This is a dataset I downloaded from Kaggle **Worldwide Covid Cases & Vaccination
 
 Here are some of the questions I tried to answer based on the dataset:
 1. Which are the top 5 countries with the highest number of fully vaccinated people?
-2. What are the avergae total deaths from Covid per country?
+2. What are the average total deaths from Covid per country?
 3. What are the totals of covid cases and covid deaths in every country?
-4. How many covid cases and covid deaths were reported between 01-22-2020 and 02-22-2020 and in which countries?
+4. How many covid cases and covid deaths were reported between 01-22-2020 and 02-22-2020 per country?
 5. When was the first Covid-19 case reported in Suriname?   
+
+
+``` 
+SELECT country, SUM(fully_vaccinated) AS vaccine_totals
+FROM covid
+GROUP BY country
+ORDER BY vaccine_totals DESC
+LIMIT 5;
+```
+
+```
+SELECT country, AVG(total_deaths) as death_avg
+FROM covid
+GROUP BY country
+ORDER BY country;
+```
+
+```
+SELECT country, SUM(total_cases) AS cases, SUM(total_deaths) AS deaths
+FROM covid
+GROUP BY country;
+```
+
+```
+SELECT distinct(country), date, daily_deaths, daily_cases
+FROM covid
+WHERE date between '2020-01-22' AND '2020-02-22'
+AND daily_deaths > 0
+ORDER BY date ASC;
+```
+```
+SELECT country, date, daily_cases
+FROM covid
+WHERE country = 'suriname'
+AND daily_cases >0 
+ORDER BY date
+```
 
 ## Welcome to GitHub Pages
 
