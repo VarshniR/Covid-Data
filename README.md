@@ -58,8 +58,14 @@ ORDER BY date
 ```
 ![Screenshot 2022-08-11 at 2 50 15 AM](https://user-images.githubusercontent.com/109621999/184078887-7fedff31-62c7-46fb-9ad5-3afc576ba3d9.png)
 
+Also played around with the dataset in Tableau, below some simple visuals:
+![Screenshot 2022-08-11 at 3 41 07 AM](https://user-images.githubusercontent.com/109621999/184086771-cc759f28-c535-48e8-801b-dab97c192030.png)
+![Screenshot 2022-08-11 at 3 44 19 AM](https://user-images.githubusercontent.com/109621999/184087056-6cc5db75-0469-4fbf-9a67-854bda06ba42.png)
+![Screenshot 2022-08-11 at 3 45 08 AM](https://user-images.githubusercontent.com/109621999/184087200-fc676f97-3db5-4e7d-9aaa-419336d410d7.png)
 
-#### For those of you who find yourself on this page, feel free to give your feedback :)
+#### To see more of my visuals and/ or dashboards: _https://public.tableau.com/app/profile/varshni3490#!/_
+
+#### For those of you who find yourself on this page, feel free to follow me and give your feedback :)
 
 #### LinkedIn: _https://www.linkedin.com/in/varshnir/_
 
