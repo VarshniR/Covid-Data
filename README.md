@@ -1,3 +1,10 @@
+### Covid-Data
+
+##### So, I have been struggling finding a job and I got a lot of advise from my peers, I worked on revamping m resume and some people suggested I add more to my Github. 
+The goal is to add all the queries I write as practice tasks to my Github profile, at least 3 times every week. Having said that, these might not always be pretty or very well put together. 
+
+#### This is a dataset I downloaded from Kaggle **Bold** Worldwide Covid Cases & Vaccination Data Combined [Link] (https://www.kaggle.com/datasets/kunwarakash/covid-cases-and-vaccination-data) **Bold**
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/VarshniR/Covid-Data/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
