@@ -1,9 +1,16 @@
 ### Covid-Data
 
-##### So, I have been struggling finding a job and I got a lot of advise from my peers, I worked on revamping m resume and some people suggested I add more to my Github. 
-The goal is to add all the queries I write as practice tasks to my Github profile, at least 3 times every week. Having said that, these might not always be pretty or very well put together. 
+So, I have been struggling finding a job and I got a lot of advise from my peers, I worked on revamping my resume and some people suggested I add more to my Github portfolio. 
+The goal is to add all the queries I write as practice tasks to my Github profile, at least 3 times every week. Having said that, these might not always be pretty or very well put together.
 
-This is a dataset I downloaded from Kaggle **Worldwide Covid Cases & Vaccination Data Combined [Link] (https://www.kaggle.com/datasets/kunwarakash/covid-cases-and-vaccination-data)**
+This is a dataset I downloaded from Kaggle **Worldwide Covid Cases & Vaccination Data Combined [Link](https://www.kaggle.com/datasets/kunwarakash/covid-cases-and-vaccination-data)**
+
+Here are some of the questions I tried to answer based on the dataset:
+1. Which are the top 5 countries with the highest number of fully vaccinated people?
+2. What are the avergae total deaths from Covid per country?
+3. What are the totals of covid cases and covid deaths in every country?
+4. How many covid cases and covid deaths were reported between 01-22-2020 and 02-22-2020 and in which countries?
+5. When was the first Covid-19 case reported in Suriname?   
 
 ## Welcome to GitHub Pages
 
