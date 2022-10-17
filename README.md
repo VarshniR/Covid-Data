@@ -3,9 +3,6 @@
 
 ### Covid-Data
 
-So, I have been struggling finding a job and I got a lot of advise from my peers, I worked on revamping my resume and some people suggested I add more to my Github portfolio. 
-The goal is to add all the queries I write as practice tasks to my Github profile, at least 3 times every week. Having said that, these might not always be pretty or very well put together.
-
 This is a dataset I downloaded from Kaggle **Worldwide Covid Cases & Vaccination Data Combined (https://www.kaggle.com/datasets/kunwarakash/covid-cases-and-vaccination-data)**
 
 Here are some of the questions I tried to answer based on the dataset:
